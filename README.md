@@ -1,8 +1,6 @@
 # ProjJCA
 Analyzing knowledge circulation across Korean Literature and English Literature in Korea using KCI metadata.
 
----
-
 ## Introduction
 
 This collaborative research project investigates knowledge circulation and theoretical hegemony across two disciplinary fields in the Korean academic landscape: **Korean Literature (국문학)** and **English Literature in Korea (영문학)**. Despite their scholarly affinity, these fields have long been institutionally and culturally separated, leaving the intersections between them largely unexamined.
